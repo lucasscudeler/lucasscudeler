@@ -24,7 +24,7 @@
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
-<img align="right" height="300" alt="cat-code" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif">
+<img align="right" height="180" alt="cat-code" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif">
 
 <div>
   <a href="https://github.com/lucasscudeler">
