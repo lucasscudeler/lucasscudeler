@@ -2,7 +2,7 @@
 
 > Tenho 24 anos e estudo <strong>Análise e Desenvolvimento de Sistemas</strong>.
 
----
+##
 
 🎮 Social
 
@@ -11,7 +11,7 @@
 <code><a href="https://www.twitch.tv/scudel3r" target="_blank"><img height="32" src="https://www.freeiconspng.com/uploads/twitch-icon-5.png" target="_blank"></a></code>
 <code><a href="https://www.instagram.com/_lucasscudeler/" target="_blank"><img height="32" src="https://www.freeiconspng.com/uploads/looking-for-instagram-or-android-fonts-or-logos-and-icons-in-png-and--7.png" target="_blank"></a></code>
 
----
+##
 
 🚀 Minhas Skills
 
@@ -32,4 +32,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasscudeler&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/lucasscudeler/lucasscudeler/blob/output/github-contribution-grid-snake.svg)
