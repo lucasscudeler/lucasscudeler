@@ -1,6 +1,6 @@
 ## Olá, meu nome é <strong>Lucas Scudeler!</strong>
 
-> Tenho 24 anos e estudo <strong>Análise e Desenvolvimento de Sistemas</strong>.
+> Tenho 25 anos e estudo <strong>Análise e Desenvolvimento de Sistemas</strong>.
 
 ##
 
